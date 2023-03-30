@@ -1,0 +1,1 @@
+some basic rules for implementing css(cascading style sheet)
